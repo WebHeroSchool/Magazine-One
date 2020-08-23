@@ -1,3 +1,6 @@
+body {
+  font-family: 'Lora', serif;
+}
 header {
   background: orange;
   font-style: italic;
@@ -19,7 +22,8 @@ main {
 }
 .main__title {
   background: white;
-  font-size: 1.3em;
+  font-family: 'PT Serif', serif;
+  font-size: 20px;
   color: orange;
   margin-left: 8px;
 }
