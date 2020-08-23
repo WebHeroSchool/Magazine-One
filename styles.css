@@ -1,0 +1,44 @@
+header {
+  background: orange;
+  font-style: italic;
+  margin-left: 30px;
+  color: brown;
+}
+section {
+  float: center;
+}
+img {
+  width: 540px;
+  height: 360px;
+  margin-left: 60px;
+}
+main {
+  background: orange;
+  border-top: solid;
+  border-color: orange;
+}
+.main__title {
+  background: white;
+  font-size: 1.3em;
+  color: orange;
+  margin-left: 8px;
+}
+ul {
+  color: white;
+}
+aside {
+  font-size: 2.7em;
+  font-style: italic;
+  color: orange;
+  transform: rotate(-90deg);
+  transform-origin: left top 0;
+  position: absolute;
+  left: 10px;
+  top: 360px;
+}
+footer {
+  background: lightgray;
+}
+.footer__input {
+  margin-left: 10px;
+}
